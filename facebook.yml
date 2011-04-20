@@ -1,0 +1,33 @@
+
+development:
+    key: 568a24a5c67f13c84faffd60feba90cd
+    secret: 25d39f6d7edde7121a3476e2b1a8478c
+    canvas_path: http://apps.facebook.com/inkakinada/
+    callback_path: http://apps.facebook.com/inkakinada/
+    tunnel:
+      username: kakinadaindia@yahoo.in
+      host: www.inkakinada.com
+      port: 80
+      local_port: 5678
+
+test:
+    key: 568a24a5c67f13c84faffd60feba90cd
+    secret: 25d39f6d7edde7121a3476e2b1a8478c
+    canvas_path: /inkakinada/
+    callback_path: http://www.inkakinada.com
+    tunnel:
+      username: kakinadaindia@yahoo.in
+      host: www.inkakinada.com
+      port: 80
+      local_port: 5678
+
+production:
+    key: 568a24a5c67f13c84faffd60feba90cd
+    secret: 25d39f6d7edde7121a3476e2b1a8478c
+    canvas_path: /inkakinada/
+    callback_path: http://inkakinada.com
+    tunnel:
+      username: kakinadaindia@yahoo.in
+      host: www.inkakinada.com
+      port: 80
+      local_port: 5678
